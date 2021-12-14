@@ -1,6 +1,6 @@
 {
   "name": "com.corn.gameplay",
-  "version": "1.0",
+  "version": "1.0.0",
   "displayName": "Package Example",
   "description": "This is an example package",
   "unity": "2021.1",
