@@ -1,15 +1,13 @@
 {
-  "name": "com.corn.gameplay",
-  "version": "1.0.1",
-  "displayName": "Package Example",
-  "description": "This is an example package",
+  "name": "com.gameplay.core",
+  "version": "1.0.0",
+  "displayName": "Gameplay Core",
+  "description": "Core game engine code",
   "unity": "2021.1",
   "unityRelease": "14f1",
   "dependencies": {
   },
   "author": {
-    "name": "My Company",
-    "email": "hello@example.com",
-    "url": "https://www.mycompany.com"
+    "name": "Corn",
   }
 }
